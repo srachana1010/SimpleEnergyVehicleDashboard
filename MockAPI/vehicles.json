@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Simple One Urban",
+        "model": "3.7 kWh",
+        "battery": 72,
+        "range": 118,
+        "speed": 45,
+        "odometer": 5420,
+        "status": "ONLINE",
+        "lastUpdated": "2026-09-07T10:30:00"
+    },
+    {
+        "id": 2,
+        "name": "Simple One Pro",
+        "model": "5 kWh",
+        "battery": 45,
+        "range": 80,
+        "speed": 20,
+        "odometer": 3210,
+        "status": "OFFLINE",
+        "lastUpdated": "2026-09-07T11:00:00"
+    },
+    {
+        "id": 3,
+        "name": "Simple One Max",
+        "model": "5 kWh",
+        "battery": 91,
+        "range": 145,
+        "speed": 60,
+        "odometer": 7840,
+        "status": "ONLINE",
+        "lastUpdated": "2026-09-07T11:15:00"
+    },
+    {
+        "id": 4,
+        "name": "Simple One City",
+        "model": "3.7 kWh",
+        "battery": 28,
+        "range": 46,
+        "speed": 35,
+        "odometer": 9125,
+        "status": "ONLINE",
+        "lastUpdated": "2026-09-07T12:10:00"
+    },
+    {
+        "id": 5,
+        "name": "Simple One Plus",
+        "model": "5 kWh",
+        "battery": 63,
+        "range": 102,
+        "speed": 50,
+        "odometer": 4680,
+        "status": "ONLINE",
+        "lastUpdated": "2026-09-07T12:45:00"
+    },
+    {
+        "id": 6,
+        "name": "Simple One Lite",
+        "model": "3.7 kWh",
+        "battery": 12,
+        "range": 19,
+        "speed": 0,
+        "odometer": 10540,
+        "status": "OFFLINE",
+        "lastUpdated": "2026-09-07T13:20:00"
+    },
+    {
+        "id": 7,
+        "name": "Simple One Sport",
+        "model": "5 kWh",
+        "battery": 84,
+        "range": 136,
+        "speed": 55,
+        "odometer": 6235,
+        "status": "ONLINE",
+        "lastUpdated": "2026-09-07T14:05:00"
+    },
+    {
+        "id": 8,
+        "name": "Simple One Touring",
+        "model": "5 kWh",
+        "battery": 37,
+        "range": 61,
+        "speed": 25,
+        "odometer": 7380,
+        "status": "OFFLINE",
+        "lastUpdated": "2026-09-07T14:30:00"
+    }
+]
